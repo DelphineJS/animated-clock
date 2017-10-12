@@ -43,3 +43,7 @@ background: transparent url("../images/clock-face.svg") no-repeat center center;
   }
 
 }
+
+.hand-hour {
+  animation: hand-rotate 6s linear infinite;
+}
